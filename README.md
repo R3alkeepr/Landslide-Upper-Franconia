@@ -1,74 +1,46 @@
 # Landslide-Upper-Franconia
 
-Within this project we explored a landslide in Upper Franconia near Bayreuth (Heinersreuther Forst). The landslide was mapped in the general area, its form was studied via electrical resistivity tomography, and its stability was assessed through root pulling and soil description
+This project was conducted as part of the *Process Geomorphology* course at the University of Bayreuth and investigates a landslide located in the Heinersreuther Forst near Bayreuth, Upper Franconia, Germany. The study combines surface mapping, geophysical surveys, and geotechnical observations to characterize the landslide's morphology, subsurface structure, and stability conditions.
 
-
-
-\# Landslide Dynamics
-
-
+# Landslide Dynamics
 
 Process Geomorphology
 
-
-
 University of Bayreuth (2024)
 
+## Overview
 
+This repository contains the final report of the project.
 
-\## Overview
+The study investigates a landslide in the Heinersreuther Forst through an integrated geomorphological and geophysical approach. The landslide was mapped at the surface to document its morphology and extent, while its internal structure was examined using Electrical Resistivity Tomography (ERT). In addition, root-pulling experiments and soil profile descriptions were conducted to assess slope stability and the influence of vegetation on mechanical reinforcement.
 
+By combining surface observations with subsurface investigations, the project provides insights into the geomorphic processes, internal characteristics, and current activity of the landslide.
 
+## Research Objectives
 
-This repository contains the final report of the course Process Geomorphology which was handled as a project. It investigates a landslide in the Heinersreuther Forst, near Bayreuth. The landslide area was not only mapped on the surface but was also explored on various depths with a pretty sophisticated subsurface analysis. This gives insights on the activity of the landslide.
+* Characterize the morphology and spatial extent of the landslide.
+* Investigate subsurface structures and potential failure surfaces using geophysical methods.
+* Assess slope stability through root-pulling experiments and soil analyses.
+* Improve understanding of landslide dynamics in the study area.
 
+## Methods
 
+* Electrical Resistivity Tomography (ERT)
+* Root-Pulling Experiments
+* Soil Profile Description
+* Geomorphic Mapping
 
-The study combines electrical resistivity tomography (ERT), root pulling, and geomorphic mapping to analyze the landslide area.
+## Software
 
+* RES2DINV
+* R
+* ArcGIS Pro
 
+## Repository Contents
 
-\## Methods
+* Paper
+* Data
 
-
-
-\- Electrical Resistivity Tomography (ERT)
-
-
-
-\- Root Pulling 
-
-
-
-\- Geomorphic Mapping
-
-
-
-\## Software
-
-
-
-\- RES2DINV
-
-
-
-\- R
-
-
-
-\- ArcGIS Pro
-
-
-
-\## Repository Contents
-
-
-
-\- Paper
-
-
-
-\- data
 
 
 
